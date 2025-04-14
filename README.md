@@ -2,6 +2,11 @@
 
 # bike
 
+Trata-se de um site simples feito com HTML e CSS.
+
+Pode ser acessado através do link:
+https://jonathan-matheus.github.io/bike/
+
 ## Abrir e rodar o projeto
 
 Basta abrir o arquivo `index.html` no navegador.
